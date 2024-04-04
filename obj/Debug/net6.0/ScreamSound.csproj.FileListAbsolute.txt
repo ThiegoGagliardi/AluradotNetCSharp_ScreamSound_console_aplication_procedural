@@ -1,0 +1,15 @@
+C:\Users\Thieg\projeto\.net\ScreamSound\bin\Debug\net6.0\ScreamSound.exe
+C:\Users\Thieg\projeto\.net\ScreamSound\bin\Debug\net6.0\ScreamSound.deps.json
+C:\Users\Thieg\projeto\.net\ScreamSound\bin\Debug\net6.0\ScreamSound.runtimeconfig.json
+C:\Users\Thieg\projeto\.net\ScreamSound\bin\Debug\net6.0\ScreamSound.dll
+C:\Users\Thieg\projeto\.net\ScreamSound\bin\Debug\net6.0\ScreamSound.pdb
+C:\Users\Thieg\projeto\.net\ScreamSound\obj\Debug\net6.0\ScreamSound.csproj.AssemblyReference.cache
+C:\Users\Thieg\projeto\.net\ScreamSound\obj\Debug\net6.0\ScreamSound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thieg\projeto\.net\ScreamSound\obj\Debug\net6.0\ScreamSound.AssemblyInfoInputs.cache
+C:\Users\Thieg\projeto\.net\ScreamSound\obj\Debug\net6.0\ScreamSound.AssemblyInfo.cs
+C:\Users\Thieg\projeto\.net\ScreamSound\obj\Debug\net6.0\ScreamSound.csproj.CoreCompileInputs.cache
+C:\Users\Thieg\projeto\.net\ScreamSound\obj\Debug\net6.0\ScreamSound.dll
+C:\Users\Thieg\projeto\.net\ScreamSound\obj\Debug\net6.0\refint\ScreamSound.dll
+C:\Users\Thieg\projeto\.net\ScreamSound\obj\Debug\net6.0\ScreamSound.pdb
+C:\Users\Thieg\projeto\.net\ScreamSound\obj\Debug\net6.0\ScreamSound.genruntimeconfig.cache
+C:\Users\Thieg\projeto\.net\ScreamSound\obj\Debug\net6.0\ref\ScreamSound.dll
