@@ -23,7 +23,7 @@ Scream Sound é um projeto de console application desenvolvido em C# com o objet
 1. Clone o repositório para o seu ambiente local:
 
 ```
-git clone https://github.com/seu-usuario/scream-sound.git
+git clone https://github.com/ThiegoGagliardi/AluradotNetCSharp_ScreamSound_console_aplication_procedural.git
 ```
 
 2. Navegue até o diretório do projeto:
